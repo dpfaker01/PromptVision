@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Vision",
+  "description": "Upload any image to analyze its content, context, and potential motion. Generates detailed text-to-image prompts for creative workflows.",
+  "requestFramePermissions": []
+}
